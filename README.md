@@ -1,9 +1,10 @@
-#### Module HAT afficheur LCD 1,3'' Pico 19650 interface SPI
+### Module LCD pour Raspberry Pico
 
+Module HAT afficheur LCD 1,3'' Pico 19650 interface SPI
 Gotronic : https://www.gotronic.fr/art-module-hat-afficheur-lcd-1-3-pico-19650-33998.htm
 
 
-Exemples de code pour le module LCD
+### Exemples de code pour le module LCD
 
 * Coding Colour with MicroPython on Raspberry Pi Pico Displays
 https://thepihut.com/blogs/raspberry-pi-tutorials/coding-colour-with-micropython-on-raspberry-pi-pico-displays
